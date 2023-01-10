@@ -1,0 +1,382 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+}
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.header{
+    position: absolute;
+    width: 1600px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    color: #000;
+    background: linear-gradient(290.64deg, #96B79B 20.23%, #9EDFA8 90.39%);
+
+}
+
+header a {
+    color: #000;
+}
+
+.logo {
+    margin-right: 164px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.menu li {
+    margin-right: 75px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    margin-top: 66px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 48px;
+    margin-top: 142px;
+}
+
+.firstplant {
+    margin-bottom: 66px;
+    margin-left: 800px;
+}
+
+.offer {
+    position: absolute;
+    width: 579px;
+    height: 445px;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 0.02em;
+    line-height: 37px;
+    margin-top: 27px;
+}
+
+.button {
+    text-decoration: none;
+    display: block;
+    font-weight: 800;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 45px;
+    background: #FFF3D2;
+    border-radius: 170px;
+    padding: 28px 23px 29px 22px;
+}
+
+.about {
+    width: 1600px;
+    height: 900px;
+    background: #FFF3D2;
+    margin-top: 835px;
+}
+
+.flowers {
+    box-sizing: content-box;
+    position: absolute;
+    width: 272px;
+    height: 312px;
+    left: 220px;
+    top: 944px;
+    background: #FFFFFF;
+    border: 7px solid #96B79B;
+    border-radius: 35px;
+    text-align: center;
+}
+
+.products {
+    color: #000;
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: 0.05em;
+    left: 283px;
+    top: 79px;
+}
+
+.orchid {
+    position: absolute;
+    width: 149px;
+    height: 214px;
+    left: 70px;
+    top: 80px;
+
+}
+
+.arrow1 {
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    left: 210px;
+    top: 250px;
+}
+
+.cactus {
+    box-sizing: content-box;
+    position: absolute;
+    width: 272px;
+    height: 312px;
+    left: 625px;
+    top: 944px;
+    background: #FFFFFF;
+    border: 7px solid #96B79B;
+    border-radius: 35px;
+    text-align: center;
+}
+
+.arrow2 {
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    left: 210px;
+    top: 250px;
+}
+
+.fruitplants {
+    box-sizing: content-box;
+    position: absolute;
+    width: 272px;
+    height: 312px;
+    left: 1025px;
+    top: 944px;
+    background: #FFFFFF;
+    border: 7px solid #96B79B;
+    border-radius: 35px;
+    text-align: center;
+}
+
+.arrow3 {
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    left: 220px;
+    top: 250px;
+}
+
+.coniferous{
+    box-sizing: content-box;
+    position: absolute;
+    width: 272px;
+    height: 312px;
+    left: 220px;
+    top: 1358px;
+    background: #FFFFFF;
+    border: 7px solid #96B79B;
+    border-radius: 35px;
+    text-align: center;
+}
+
+.arrow4 {
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    left: 210px;
+    top: 250px;
+}
+
+.pet{
+    box-sizing: content-box;
+    position: absolute;
+    width: 272px;
+    height: 312px;
+    left: 625px;
+    top: 1358px;
+    background: #FFFFFF;
+    border: 7px solid #96B79B;
+    border-radius: 35px;
+    text-align: center;
+}
+
+.arrow5{
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    left: 210px;
+    top: 250px;
+}
+
+.hanging{
+    box-sizing: content-box;
+    position: absolute;
+    width: 272px;
+    height: 312px;
+    left: 1025px;
+    top: 1358px;
+    background: #FFFFFF;
+    border: 7px solid #96B79B;
+    border-radius: 35px;
+    text-align: center;
+}
+
+.arrow6{
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    left: 210px;
+    top: 250px;
+}
+
+.care {
+    width: 1600px;
+    height: 900px;
+    background: #9ACEA3;
+}
+
+h3 {
+    position: absolute;
+    width: 768px;
+    height: 118px;
+    left: 238px;
+    top: 1800px;
+    font-weight: 900;
+    font-size: 48px;
+    letter-spacing: 0.05em;
+}
+
+.tip1 {
+    position: absolute;
+    width: 1062px;
+    height: 104px;
+    left: 236px;
+    top: 1945px;
+}
+
+h4 {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+p{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.tip2 {
+    position: absolute;
+    width: 1062px;
+    height: 104px;
+    left: 236px;
+    top: 2076px;
+}
+
+.tip3 {
+    position: absolute;
+    width: 1062px;
+    height: 104px;
+    left: 236px;
+    top: 2207px;
+}
+
+.tip4 {
+    position: absolute;
+    width: 1062px;
+    height: 104px;
+    left: 236px;
+    top: 2338px;
+}
+
+.tip5 {
+    position: absolute;
+    width: 1062px;
+    height: 104px;
+    left: 236px;
+    top: 2469px;
+}
+
+.footer {
+    width: 1600px;
+    height: 900px;
+    background: #FFF3D2;
+}
+
+h5 {
+    position: absolute;
+    width: 375px;
+    height: 78px;
+    left: 580px;
+    top: 2830px;
+    font-weight: 900;
+    font-size: 64px;
+}
+
+footer p {
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.email {
+    position: absolute;
+    left: 238px;
+    top: 2979px;
+}
+
+.course {
+    position: absolute;
+    left: 238px;
+    top: 3056px;
+}
+
+.git {
+    position: absolute;;
+    left: 238px;
+    top: 3133px;
+}
+
+.logos {
+    position: absolute;
+    width: 1535px;
+    height: 187px;
+    left: 0;
+    top: 3413px;
+    background: #96B79B;
+}
+
+.gw {
+    position: absolute;
+    width: 286px;
+    height: 65px;
+    left: 418px;
+    top: 46px;
+}
+
+.rss {
+    position: absolute;
+    width: 190px;
+    height: 68px;
+    left: 879px;
+    top: 46px; 
+}
